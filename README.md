@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" width="160" style="border-radius:50%;">
-</p>
+
 
 <h1 align="center">Maria Lucumi – Data Analyst</h1>
 
