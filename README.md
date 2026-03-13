@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"><img width="424" height="621" alt="Maria-perfil-Github" src="https://github.com/user-attachments/assets/85c653a3-7cae-40b3-a1a1-2d7cc8db9616" />
+
   <img height="150" src="Maria-perfil-Github.png" style="border-radius:50%;" />
 </div>
 
