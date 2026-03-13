@@ -33,60 +33,14 @@ Mein Ziel ist es, Daten in **klare Erkenntnisse und fundierte Entscheidungen** z
 
 ---
 
-## Projekte
-
-### Arbeitsmarktanalyse Deutschland (2020–2025)
-
-End-to-End Analyse des deutschen Arbeitsmarktes für **Data Analyst und Data Scientist**.
-
-In diesem Projekt analysiere ich:
-
-- Gehaltsentwicklung nach Erfahrungsstufe
-- Nachfrage nach Datenrollen
-- Unterschiede zwischen Branchen
-- Einfluss von Erfahrung auf das Gehalt
-
-Technologien:
-
-- Power BI  
-- DAX  
-- Power Query  
-
 ➡️ **Projekt ansehen**  
 ([Link zum Repository](https://marialucumim.github.io/data-portfolio))
 
 ---
 
-## Analyseprozess
-
-Meine Projekte folgen in der Regel diesem Analyseprozess:
-
-1️⃣ Datenverständnis  
-Analyse der Datenstruktur und der Fragestellung  
-
-2️⃣ Datenaufbereitung  
-Bereinigung, Transformation und Validierung der Daten  
-
-3️⃣ Explorative Analyse  
-Identifikation von Trends, Mustern und Zusammenhängen  
-
-4️⃣ Visualisierung & Insights  
-Darstellung der Ergebnisse und Ableitung relevanter Erkenntnisse  
-
----
-
-## Aktuell lerne ich
-
-- Fortgeschrittene **DAX-Analysen**
-- **Python für Datenanalyse**
-- Entwicklung von **interaktiven Dashboards**
-- Best Practices für **Business Intelligence Projekte**
-
----
-
 ## Kontakt
 
-Ich bin offen für **Junior Data Analyst Positionen oder Datenprojekte**.
+Ich bin offen für **Data Analyst Positionen oder Datenprojekte**.
 
 LinkedIn: https://www.linkedin.com/in/maria-lucumi  
 Email: marialucumim84@gmail.com
