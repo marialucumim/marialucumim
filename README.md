@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="TU-IMAGEN.png" width="150" style="border-radius:50%;">
-</p>
+<div align="center">
+  <img height="150" style="border-radius:50%;" src="https://marialucumim.github.io/data-portfolio.github.io/Maria-perfil-Github.png" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-lucumi">
