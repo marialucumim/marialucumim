@@ -1,4 +1,5 @@
 
+<img width="424" height="621" alt="Maria-perfil-Github" src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-lucumi">
