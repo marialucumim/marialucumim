@@ -1,41 +1,94 @@
-
-
-###
-
-<h1 align="center">Hallo, ich bin Maria 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻 Über mich</h3>
-
-<p align="left">
-Data Analystin in der Praxis — hier dokumentiere ich meine 
-Projekte, Experimente und meinen Lernweg in der Datenwelt.<br><br>
-- 🔭 Aktuell: End-to-End Arbeitsmarktanalyse mit Power BI & SQL<br>
-- 🧪 Ich experimentiere mit Python, Pandas und Datenvisualisierung<br>
-- 📂 Projekte basieren auf öffentlichen Datensätzen mit realen Fragestellungen<br>
-- 🌱 Immer auf der Suche nach neuen Datensätzen und Analyseansätzen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" width="160" style="border-radius:50%;">
 </p>
 
-###
+<h1 align="center">Maria Lucumi – Data Analyst</h1>
 
-<h3 align="left">🛠 Technologien & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="excel logo" />
-</div>
-
-###
-
-<h3 align="left">📂 Projekte</h3>
-
-<p align="left">
-🔹 <a href="https://marialucumim.github.io/data-portfolio.github.io/arbeitsmarkt.html"><b>Arbeitsmarktanalyse Deutschland (2020–2025)</b></a><br>
-End-to-End BI-Analyse mit Power BI · DAX · Power Query
+<p align="center">
+Datenanalyse · Business Insights · Data Visualization
 </p>
+
+---
+
+## Über mich
+
+Ich bin **Data Analyst** mit Fokus auf datenbasierte Entscheidungsfindung.  
+In diesem Portfolio dokumentiere ich meine Projekte, Analysen und meinen Lernweg im Bereich **Datenanalyse und Business Intelligence**.
+
+Aktuell arbeite ich an Projekten rund um:
+
+- Datenanalyse mit **Power BI**
+- Datenaufbereitung mit **Power Query**
+- Analyse mit **SQL**
+- Explorative Datenanalyse mit **Python (Pandas)**
+
+Mein Ziel ist es, Daten in **klare Erkenntnisse und fundierte Entscheidungen** zu übersetzen.
+
+---
+
+## Technologien & Tools
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## Projekte
+
+### Arbeitsmarktanalyse Deutschland (2020–2025)
+
+End-to-End Analyse des deutschen Arbeitsmarktes für **Data Analyst und Data Scientist**.
+
+In diesem Projekt analysiere ich:
+
+- Gehaltsentwicklung nach Erfahrungsstufe
+- Nachfrage nach Datenrollen
+- Unterschiede zwischen Branchen
+- Einfluss von Erfahrung auf das Gehalt
+
+Technologien:
+
+- Power BI  
+- DAX  
+- Power Query  
+
+➡️ **Projekt ansehen**  
+(Link zum Repository)
+
+---
+
+## Analyseprozess
+
+Meine Projekte folgen in der Regel diesem Analyseprozess:
+
+1️⃣ Datenverständnis  
+Analyse der Datenstruktur und der Fragestellung  
+
+2️⃣ Datenaufbereitung  
+Bereinigung, Transformation und Validierung der Daten  
+
+3️⃣ Explorative Analyse  
+Identifikation von Trends, Mustern und Zusammenhängen  
+
+4️⃣ Visualisierung & Insights  
+Darstellung der Ergebnisse und Ableitung relevanter Erkenntnisse  
+
+---
+
+## Aktuell lerne ich
+
+- Fortgeschrittene **DAX-Analysen**
+- **Python für Datenanalyse**
+- Entwicklung von **interaktiven Dashboards**
+- Best Practices für **Business Intelligence Projekte**
+
+---
+
+## Kontakt
+
+Ich bin offen für **Junior Data Analyst Positionen oder Datenprojekte**.
+
+LinkedIn  
+Email
