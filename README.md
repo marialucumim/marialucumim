@@ -89,4 +89,4 @@ Darstellung der Ergebnisse und Ableitung relevanter Erkenntnisse
 Ich bin offen für **Junior Data Analyst Positionen oder Datenprojekte**.
 
 LinkedIn: https://www.linkedin.com/in/maria-lucumi  
-Email:
+Email: marialucumim84@gmail.com
