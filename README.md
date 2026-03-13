@@ -1,6 +1,4 @@
 <div align="center">
-<img width="150" height="150" alt </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-lucumi">
