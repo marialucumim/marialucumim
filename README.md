@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL-DE-TU-IMAGEN" width="150" height="150" style="border-radius:50%;">
+  <img src="TU-IMAGEN.png" width="150" style="border-radius:50%;">
 </p>
 
 <div align="center">
