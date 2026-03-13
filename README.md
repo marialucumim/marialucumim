@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-lucumi">
