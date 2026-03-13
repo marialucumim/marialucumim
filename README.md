@@ -1,5 +1,6 @@
-<div align="center"> <img width="150" height="150" src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" style="border-radius:50%;" /> </div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" width="150" height="150" alt="Profile image" style="border-radius: 50%;">
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-lucumi">
