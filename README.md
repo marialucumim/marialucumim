@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" style="border-radius:50%;" src="https://marialucumim.github.io/data-portfolio.github.io/Maria-perfil-Github.png" />
+  <img height="150" style="border-radius:50%;" src="Maria-perfil-Github.png" />
 </div>
 
 <div align="center">
