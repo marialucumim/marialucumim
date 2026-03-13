@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53c88dea-a488-4612-9b1e-432819d89b44" width="150" height="150" alt="Profile image" style="border-radius: 50%;">
+  <img src="URL-DE-TU-IMAGEN" width="150" height="150" style="border-radius:50%;">
 </p>
 
 <div align="center">
