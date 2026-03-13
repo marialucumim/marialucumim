@@ -53,7 +53,7 @@ Technologien:
 - Power Query  
 
 ➡️ **Projekt ansehen**  
-([Link zum Repository](https://marialucumim.github.io/data-portfolio.github.io))
+([Link zum Repository](https://marialucumim.github.io/data-portfolio))
 
 ---
 
