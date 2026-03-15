@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Maria Lucumi – Data Analyst</h1>
+<h1 align="center">Maria Lucumi | Data Analyst</h1>
 
 <p align="center">
 Datenanalyse · Business Insights · Data Visualization
@@ -11,16 +11,7 @@ Datenanalyse · Business Insights · Data Visualization
 ## Über mich
 
 Ich bin **Data Analyst** mit Fokus auf datenbasierte Entscheidungsfindung.  
-In diesem Portfolio dokumentiere ich meine Projekte, Analysen und meinen Lernweg im Bereich **Datenanalyse und Business Intelligence**.
-
-Aktuell arbeite ich an Projekten rund um:
-
-- Datenanalyse mit **Power BI**
-- Datenaufbereitung mit **Power Query**
-- Analyse mit **SQL**
-- Explorative Datenanalyse mit **Python (Pandas)**
-
-Mein Ziel ist es, Daten in **klare Erkenntnisse und fundierte Entscheidungen** zu übersetzen.
+In diesem Profile dokumentiere ich meine Projekte, Analysen und meinen Lernweg im Bereich **Datenanalyse und Business Intelligence**.
 
 ---
 
