@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Maria Lucumi | Data Analyst</h1>
+<h1 align="center">Maria Lucumi <p></p>Data Analyst</h1>
 
 <p align="center">
 Datenanalyse · Business Insights · Data Visualization
